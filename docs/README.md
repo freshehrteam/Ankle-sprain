@@ -1,6 +1,6 @@
 Welcome to the Physiotherapy Ankle Sprain Assessment Project!
 
-![Physiotherapy](/images/physiotherapy002.png)
+![Physiotherapy](https://github.com/freshehrteam/Ankle-sprain/raw/master/docs/images/physiotherapy002.png)
 
 Physiotherapy is on the cusp of having electronic health records, and yet there has been little concrete progress. Jamila Chihab is a physiotherapist who is now studying for an MSc in Health Informatics at University College London, and her project is trying to change this lack of progress.
 
