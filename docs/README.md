@@ -1,4 +1,4 @@
-**Welcome to the Physiotherapy Ankle Sprain Assessment Project!**
+### **Welcome to the Physiotherapy Ankle Sprain Assessment Project!**
 
 <img src="https://github.com/freshehrteam/Ankle-sprain/raw/master/docs/images/Jump-loop.jpg">
 
