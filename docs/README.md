@@ -9,3 +9,5 @@ We now have the technology to bring physiotherapy into the modern age of data co
 Using the ankle sprain injury as an example, Jamila has extracted the specific clinical data from a guideline and created a dataset. With the help of industry technical experts she has specified how these data should be captured, stored and recorded.
 
 The next step is to ask for expert views about these data structures and their fitness for use.
+
+Follow [this link](https://freshehrteam.github.io/CKM-Documentation/) for some guidance about how to sign up to Clinical Knowledge Manager and how to do a template review.
